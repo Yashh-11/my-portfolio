@@ -45,7 +45,7 @@ function About() {
                   />
                   <div className="status-indicator" />
                 </div>
-                <h3>JYash Chandrani</h3>
+                <h3>Yash Chandrani</h3>
                 <span className="role" ref={roleRef} />
                 <div className="rating">
                   <i className="bi bi-star-fill" />
@@ -72,7 +72,7 @@ function About() {
               </div>
               <div className="profile-actions">
                 <a href="#" className="btn-primary">
-                  <i className="bi bi-download" /> Download CV
+                  <i className="bi bi-download" ><img src="resum1.pdf" download="My Portfolio" alt="" /> Download CV</i>
                 </a>
                 <a href="#" className="btn-secondary">
                   <i className="bi bi-envelope" /> Contact
@@ -143,7 +143,7 @@ function About() {
                   <i className="bi bi-geo-alt" />
                   <div className="detail-content">
                     <span>Based In</span>
-                    <strong>Portland, OR</strong>
+                    <strong>Navsari,Gujarat</strong>
                   </div>
                 </div>
                 <div
@@ -154,7 +154,7 @@ function About() {
                   <i className="bi bi-envelope" />
                   <div className="detail-content">
                     <span>Email</span>
-                    <strong>contact@example.com</strong>
+                    <strong>chandraniyash@gmail.com</strong>
                   </div>
                 </div>
                 <div
@@ -165,7 +165,7 @@ function About() {
                   <i className="bi bi-phone" />
                   <div className="detail-content">
                     <span>Phone</span>
-                    <strong>+1 (555) 234-5678</strong>
+                    <strong>+91 7016741214</strong>
                   </div>
                 </div>
                 <div

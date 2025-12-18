@@ -91,7 +91,7 @@ function Resume() {
                   <div className="card-body">
                     <h3>Product Design Lead</h3>
                     <p className="company-name">TechForward Solutions</p>
-                    <span className="duration">2020 - 2023</span>
+                    <span className="duration">2022 - 2024</span>
                     <p className="description">
                       Sed ut perspiciatis unde omnis iste natus error sit
                       voluptatem accusantium doloremque laudantium totam rem
@@ -112,7 +112,7 @@ function Resume() {
                   <div className="card-body">
                     <h3>UX Designer</h3>
                     <p className="company-name">Creative Studio Inc</p>
-                    <span className="duration">2017 - 2020</span>
+                    <span className="duration">2022 - 2025</span>
                     <p className="description">
                       Excepteur sint occaecat cupidatat non proident sunt in
                       culpa qui officia deserunt mollit anim id est laborum.
@@ -150,7 +150,7 @@ function Resume() {
                     </div>
                     <div className="timeline-content">
                       <div className="education-meta">
-                        <span className="year-range">2015 - 2017</span>
+                        <span className="year-range">2020 - 2023</span>
                         <span className="degree-level">Masters</span>
                       </div>
                       <h4>Master of Design Innovation</h4>
@@ -171,7 +171,7 @@ function Resume() {
                     </div>
                     <div className="timeline-content">
                       <div className="education-meta">
-                        <span className="year-range">2011 - 2015</span>
+                        <span className="year-range">2024 - 2027</span>
                         <span className="degree-level">Bachelor</span>
                       </div>
                       <h4>Bachelor of Fine Arts</h4>
