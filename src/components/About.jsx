@@ -71,8 +71,12 @@ function About() {
                 </div>
               </div>
               <div className="profile-actions">
-                <a href="#" className="btn-primary">
-                  <i className="bi bi-download" ><img src="resum1.pdf" download="My Portfolio" alt="" /> Download CV</i>
+                <a
+                  href="/resume1.pdf"
+                  download="Yash_Chandrani_Resume.pdf"
+                  className="btn-primary"
+                >
+                  <i className="bi bi-download"></i> Download CV
                 </a>
                 <a href="#" className="btn-secondary">
                   <i className="bi bi-envelope" /> Contact
