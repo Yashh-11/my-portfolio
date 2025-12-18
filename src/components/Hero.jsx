@@ -27,7 +27,7 @@ function Hero() {
       <div className="container" data-aos="fade-up" data-aos-delay={100}>
         <div className="row justify-content-center">
           <div className="col-lg-8 text-center">
-            <h2>Hi, I'm Alex Morgan</h2>
+            <h2>Hi, I'm Yash Chandrani</h2>
             <p>
               I'm a <span className="typed" ref={typedRef} />
               <span className="typed-cursor" aria-hidden="true" />

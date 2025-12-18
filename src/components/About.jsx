@@ -45,7 +45,7 @@ function About() {
                   />
                   <div className="status-indicator" />
                 </div>
-                <h3>Jordan Mitchell</h3>
+                <h3>JYash Chandrani</h3>
                 <span className="role" ref={roleRef} />
                 <div className="rating">
                   <i className="bi bi-star-fill" />
